@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning (estudando): Front-end, Back-end, MySQL, UI/UX, NoSQL
-
+- :house_with_garden: I’m from Brazil.
 
 
 <div>
