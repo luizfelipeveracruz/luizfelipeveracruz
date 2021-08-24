@@ -14,10 +14,7 @@
   <img align="center" alt="luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="luiz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- 
- 
-  
-  <!--<img align="left" alt="luiz-lux" src="https://1.bp.blogspot.com/-Y357C-IXwq8/WBSLcF3N0QI/AAAAAAAAXCw/RLgfGEtPafoTFocl_dtjlZoYH68gmnX7wCLcB/s1600/27.png">-->
+
   
   </div>
   
@@ -29,5 +26,5 @@
    ![Snake animation](https://github.com/luizfelipeveracruz/luizfelipeveracruz/blob/output/github-contribution-grid-snake.svg)
   </div>
   
-  
+  <!--<img align="left" alt="luiz-lux" src="https://1.bp.blogspot.com/-Y357C-IXwq8/WBSLcF3N0QI/AAAAAAAAXCw/RLgfGEtPafoTFocl_dtjlZoYH68gmnX7wCLcB/s1600/27.png">-->
   
