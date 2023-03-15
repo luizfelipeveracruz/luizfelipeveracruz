@@ -1,7 +1,7 @@
 ### Hello World!! me chamo Luiz Felipe👋
 
 
-- 🌱 I’m currently learning (estudando): Front-end, Back-end, MySQL, UI/UX, NoSQL
+- 🌱 MySQL, NoSQL
 - :house_with_garden: I’m from Brazil.
 
 
