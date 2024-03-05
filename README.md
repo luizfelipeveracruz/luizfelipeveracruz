@@ -1,7 +1,5 @@
 ### Hello World!! me chamo Luiz Felipe👋
 
-
-- 🌱 MySQL, NoSQL
 - :house_with_garden: I’m from Brazil.
 
 
